@@ -1,6 +1,6 @@
 # MultiUnitTests
 
-This application is to test having multiple unit testing frameworks in a single project. And to verify that this will work with GitHub Actions.
+This application is to test having multiple unit testing frameworks in a single ASP.NET MVC application. And to verify that this will work with GitHub Actions.
 
 ## .NET
 
