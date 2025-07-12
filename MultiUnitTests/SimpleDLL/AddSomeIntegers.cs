@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace SimpleDLL;
 
-internal class AddSomeIntegers
+public class AddSomeIntegers
 {
     public int AddTwo(int a)
     {
